@@ -1,0 +1,87 @@
+[
+  {
+    "slug": "trendlix-digital",
+    "name": "Trendlix Digital",
+    "tagline": "Bilingual digital marketing agency platform",
+    "role": "Full Stack Developer (solo on features)",
+    "badge": "Bilingual",
+    "year": "2025",
+    "cover": "/images/projects/trendlix-digital.svg",
+    "previewUrl": "",
+    "repoUrl": "",
+    "tech": [
+      "Next.js",
+      "Express",
+      "MongoDB",
+      "next-intl",
+      "RTL"
+    ],
+    "summary": "Solo-built services, blog and content flows, full EN/AR localisation with RTL via next-intl from one codebase, plus a clean-architecture refactor that sped up onboarding.",
+    "highlights": [
+      "Independently built core features: services pages, blog/news, and structured content management.",
+      "Full bilingual EN/AR localisation with RTL support via next-intl from a single codebase.",
+      "Led a full codebase restructure into clean architecture, reducing onboarding time."
+    ]
+  },
+  {
+    "slug": "arabtec",
+    "name": "Arabtec",
+    "tagline": "Pixel-accurate corporate marketing website",
+    "role": "Frontend Developer",
+    "badge": "",
+    "year": "2024",
+    "cover": "/images/projects/arabtec.svg",
+    "previewUrl": "",
+    "repoUrl": "",
+    "tech": [
+      "Next.js",
+      "Animation",
+      "Responsive"
+    ],
+    "summary": "Pixel-accurate, responsive corporate marketing site with animated sections and optimised asset loading across desktop and mobile.",
+    "highlights": [
+      "Pixel-accurate responsive build with animated sections.",
+      "Optimised asset loading for desktop and mobile."
+    ]
+  },
+  {
+    "slug": "opindoo",
+    "name": "Opindoo (Alumax)",
+    "tagline": "Product website & admin dashboard overhaul",
+    "role": "Full Stack Developer",
+    "badge": "",
+    "year": "2025",
+    "cover": "/images/projects/opindoo.svg",
+    "previewUrl": "",
+    "repoUrl": "",
+    "tech": [
+      "Next.js",
+      "Full Stack",
+      "Dashboard"
+    ],
+    "summary": "Redesigned the corporate site and overhauled the admin dashboard, extending the full-stack codebase across UI and APIs to improve reliability.",
+    "highlights": [
+      "Redesigned the corporate website and overhauled the admin dashboard.",
+      "Extended the full-stack codebase across frontend UI and backend APIs.",
+      "Reduced reported UI issues and improved platform reliability."
+    ]
+  },
+  {
+    "name": "Sit rerum tempora c",
+    "slug": "expedita-ipsam-numqu",
+    "tagline": "Dolorum sit in incid",
+    "role": "Doloribus unde sed s",
+    "badge": "Quia sed aut pariatu",
+    "year": "At pariatur Qui pro",
+    "cover": "/uploads/2c569be23f30f37e93eb006a642f05a4a2d26fba-1781827926560.jpg",
+    "previewUrl": "Id enim consequatur",
+    "repoUrl": "Sint nostrud volupt",
+    "tech": [
+      "Est reprehenderit t"
+    ],
+    "summary": "Ratione excepteur co",
+    "highlights": [
+      "Molestiae omnis qui"
+    ]
+  }
+]

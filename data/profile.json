@@ -1,0 +1,94 @@
+{
+  "hero": {
+    "name": "Youssif Salama",
+    "title": "Full Stack Developer · Fintech & AI Integration Engineer",
+    "availability": "Open to remote roles worldwide · Immediate start",
+    "location": "Cairo, Egypt",
+    "email": "youssifsalama01@gmail.com",
+    "phone": "+20 155 654 3218",
+    "linkedin": "https://linkedin.com/in/youssif-salama",
+    "photo": "/images/profile.webp",
+    "roles": [
+      "Full Stack Developer",
+      "Fintech & AI Engineer",
+      "MERN Stack Specialist",
+      "Next.js Architect"
+    ],
+    "intro": "I build production systems where latency and cost actually matter — full-stack fintech wallets, AI-integrated platforms on the MERN stack, and bilingual Next.js products serving audiences across two continents.",
+    "photoCardBadge": "Fintech · AI · MERN",
+    "tagLanguage": "🌐 EN / AR · RTL",
+    "tagExperience": "⚡ ~2 yrs shipping"
+  },
+  "about": {
+    "index": "01",
+    "label": "about",
+    "heading": "I started writing code out of curiosity — and never stopped chasing how things actually work.",
+    "paragraphs": [
+      "Since 2023 I've gone from internship projects to shipping products real users depend on. I care about clean architecture — not because it looks good on a CV, but because messy code makes future-me and everyone else miserable.",
+      "I spent a year teaching backend engineering to 30+ developers per cohort, which forced me to understand the why behind every pattern. I thrive in async remote collaboration across distributed teams — and I'm available for an immediate start."
+    ]
+  },
+  "stats": [
+    { "prefix": "", "value": 98, "suffix": "/100", "label": "Graduation project score (highest in faculty)" },
+    { "prefix": "<", "value": 300, "suffix": "ms", "label": "Average AI response latency under load" },
+    { "prefix": "", "value": 1000, "suffix": "+", "label": "Concurrent WebSocket connections supported" },
+    { "prefix": "", "value": 30, "suffix": "+", "label": "Developers mentored per teaching cohort" }
+  ],
+  "skills": {
+    "index": "02",
+    "label": "stack",
+    "heading": "The toolkit",
+    "categories": [
+      { "name": "Backend", "items": ["Node.js", "Express.js", "NestJS", "REST APIs", "GraphQL", "WebSockets", "Socket.io", "Microservices"] },
+      { "name": "Frontend", "items": ["Next.js", "React.js", "TypeScript", "JavaScript ES2022+", "Vue.js", "Tailwind CSS", "HTML5", "CSS3"] },
+      { "name": "AI Integration", "items": ["OpenAI GPT-4 / 4o", "ElevenLabs Voice AI", "Google Gemini", "Prompt Engineering", "LLM Cost Optimisation", "AI Moderation"] },
+      { "name": "Fintech", "items": ["E-Wallet Architecture", "Payment Gateways", "Real-Time Transactions", "WebSocket Monitoring", "Idempotency"] },
+      { "name": "Security", "items": ["OAuth 2.0", "JWT", "RBAC", "API Rate Limiting", "HTTPS / TLS", "Input Validation"] },
+      { "name": "Databases", "items": ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase Realtime DB"] },
+      { "name": "DevOps & Cloud", "items": ["Docker", "AWS (EC2 · S3 · CloudFront)", "GitHub Actions CI/CD", "Nginx", "Linux / Bash"] }
+    ]
+  },
+  "experience": {
+    "index": "03",
+    "label": "experience",
+    "heading": "Where I've shipped",
+    "items": [
+      { "role": "AI Integration Engineer", "company": "Plato", "dates": "Dec 2025 — Present", "meta": "Part-time · Remote", "summary": "Architected Node.js/Next.js services integrating OpenAI GPT-4, ElevenLabs TTS and Google Gemini — sub-300ms latency, ~35% throughput gain via caching, and ~20% lower token cost through structured prompt engineering." },
+      { "role": "Full Stack Developer", "company": "Trendlix", "dates": "Aug 2025 — Present", "meta": "Full-time · On-site", "summary": "Built scalable Next.js/Express/MongoDB features, lifted Lighthouse from 58→89, secured multi-tenant data with OAuth 2.0 + RBAC, and cut deploys from ~2 hours to under 10 minutes with Docker CI/CD." },
+      { "role": "Backend Instructor", "company": "MBD Academy", "dates": "Aug 2024 — Aug 2025", "meta": "Full-time · Remote", "summary": "Designed a 6-month MERN backend curriculum from scratch for cohorts of 30–36. Avg satisfaction 4.7/5.0; 80%+ of graduates secured developer roles within 3 months." },
+      { "role": "Front End Vice Head (Mentor)", "company": "GDSC", "dates": "Oct 2023 — Jul 2024", "meta": "Volunteer · Damanhour University", "summary": "Mentored 40+ students in React and Git workflows, ran 8 workshops and 2 hackathons, and grew GDSC membership 60% across the year." },
+      { "role": "Backend Developer", "company": "Route IT", "dates": "Nov 2023 — Mar 2024", "meta": "Internship · Remote", "summary": "Delivered 4 production-style capstone APIs including a full e-commerce REST API and real-time chat deployed to AWS. Awarded certificate of distinction for code quality." },
+      { "role": "Front End Developer", "company": "Minplan International", "dates": "Apr 2023 — Jul 2023", "meta": "Internship · Remote", "summary": "Built responsive Vue.js and React dashboards under agile sprints, introducing reusable component patterns that cut front-end duplication ~15%." }
+    ]
+  },
+  "projectsSection": {
+    "index": "04",
+    "label": "selected work",
+    "heading": "Things I've built"
+  },
+  "contact": {
+    "index": "05",
+    "label": "let's talk",
+    "heading": "Let's build something fast.",
+    "body": "Open to full-time remote roles worldwide and relocation. Immediate start. If your team argues about architecture in pull requests and obsesses over response times — we'll get along.",
+    "footerRole": "Full Stack Developer"
+  },
+  "nav": {
+    "brandInitials": "YS",
+    "brandName": "Youssif Salama",
+    "links": [
+      ["about", "#about"],
+      ["skills", "#skills"],
+      ["work", "#work"],
+      ["projects", "#projects"]
+    ]
+  },
+  "seo": {
+    "title": "Youssif Salama — Full Stack Developer",
+    "description": "Full Stack Developer · Fintech & AI Integration Engineer. Building production systems where latency and cost actually matter.",
+    "keywords": "full stack developer, fintech engineer, ai integration, mern stack, next.js architect, node.js, react",
+    "ogImage": "/images/profile.webp",
+    "twitterHandle": "",
+    "siteUrl": "https://youssifsalama.dev"
+  }
+}

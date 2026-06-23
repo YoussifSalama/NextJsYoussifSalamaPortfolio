@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="oklch(0.30 0.10 250)"></stop>
+      <stop offset="1" stop-color="oklch(0.20 0.08 300)"></stop>
+    </linearGradient>
+    <pattern id="p" width="34" height="34" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+      <line x1="0" y1="0" x2="0" y2="34" stroke="rgba(255,255,255,0.05)" stroke-width="2"></line>
+    </pattern>
+    <radialGradient id="glow" cx="0.8" cy="0.15" r="0.7">
+      <stop offset="0" stop-color="oklch(0.85 0.13 250 / 0.45)"></stop>
+      <stop offset="1" stop-color="oklch(0.85 0.13 250 / 0)"></stop>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="675" fill="#070a12"></rect>
+  <rect width="1200" height="675" fill="url(#g)"></rect>
+  <rect width="1200" height="675" fill="url(#p)"></rect>
+  <rect width="1200" height="675" fill="url(#glow)"></rect>
+  <text x="64" y="556" font-family="&#39;JetBrains Mono&#39;,monospace" font-size="26" fill="oklch(0.86 0.10 250)" letter-spacing="2">PRODUCT SITE + DASHBOARD</text>
+  <text x="62" y="620" font-family="&#39;Space Grotesk&#39;,&#39;Segoe UI&#39;,sans-serif" font-size="74" font-weight="700" fill="#ffffff">Opindoo (Alumax)</text>
+  <circle cx="1080" cy="120" r="6" fill="oklch(0.85 0.12 250)"></circle>
+  <circle cx="1110" cy="150" r="4" fill="oklch(0.85 0.12 300)"></circle>
+  <circle cx="1050" cy="160" r="3" fill="oklch(0.85 0.12 250)"></circle>
+</svg>
